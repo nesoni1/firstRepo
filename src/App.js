@@ -15,7 +15,7 @@ function App() {
         </p>
         <div><img src={nenad} className='nenad'/></div>
       </header>
-     
+     <p>Radi</p>
     </div>
   );
 }
